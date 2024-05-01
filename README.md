@@ -46,6 +46,13 @@ Figma
 <div style="position: absolute; top: 247px; left: 80px; color: #000000;">SOLO SINGING
 </div>
 
+
+
+
+
+
+
+
 <div style="position: absolute; top: 305px; left: 80px; color: #000000;">SOLO DANCING</div>
 <div style="position: absolute; top: 359px; left: 80px; color: #000000;">SPORTS</div>
 <div style="position: absolute; top: 414px; left: 82px; color: #000000;">FLASHMOB</div>
@@ -72,10 +79,6 @@ CONTACT US:
 saveethaengg@gmail.com</div>
 <div style="position: absolute; top: 324px; left: 35px; color: #000000;">THANK YOU FOR THE RESPONSE</div>
 <div style="position: absolute; top: 462px; left: 90px; color: #000000;">HAVE A GOOD DAY!</div>
-Figma to Html code
-This will give the html code for the figma design
-
-Generate HTML Code Cancel
 
 
 ## OUTPUT:
