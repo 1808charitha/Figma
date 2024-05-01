@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="position: absolute; top: 22px; left: 16px; width: 353px; height: 53px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 128px; left: 99px; width: 171px; height: 171px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 422px; left: 105px; width: 165px; height: 60px; background-color: #d9d9d9;"></div>
@@ -79,7 +80,7 @@ CONTACT US:
 saveethaengg@gmail.com</div>
 <div style="position: absolute; top: 324px; left: 35px; color: #000000;">THANK YOU FOR THE RESPONSE</div>
 <div style="position: absolute; top: 462px; left: 90px; color: #000000;">HAVE A GOOD DAY!</div>
-
+```
 
 ## OUTPUT:
 ![image](https://github.com/1808charitha/Figma/assets/132996838/d98c0dac-a283-446b-af71-a6f7cea25c11)
